@@ -5,7 +5,7 @@
   <input type = "text" v-model='food' />
   <div v-html="alertMessage"></div>
   <div v-html="subscribeHTML"></div>
-  </div>
+  </div> 
 
 
 
